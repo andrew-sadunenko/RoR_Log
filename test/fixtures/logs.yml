@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  created_at: 2016-11-24
+  ip: MyString
+
+two:
+  username: MyString
+  created_at: 2016-11-24
+  ip: MyString
